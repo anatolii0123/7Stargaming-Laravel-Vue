@@ -1,0 +1,1513 @@
+.content-page {
+    margin-left: 0;
+}
+
+.avatarLgNew i {
+    float: right;
+    font-size: 25px;
+    color: #79ab3f;
+    margin-top: 25px;
+}
+
+.newClass {
+    float: left;
+    font-size: 15px;
+    color: #000;
+    font-weight: 600;
+}
+
+.memNumber {
+    float: left;
+    color: #000;
+    font-size: 27px;
+    padding-top: 10px;
+    margin: 0 !important;
+}
+
+.memNumberStat {
+    float: left;
+    color: #000;
+    font-size: 29px;
+    font-weight: 800;
+    padding-top: 10px;
+    margin: 0 !important;
+}
+
+.memNumberUnit {
+    float: left;
+    color: #000;
+    font-size: 13px;
+    font-weight: 800;
+    padding-top: 10px;
+    margin: 0 !important;
+}
+
+#moduleContent .col-md-2 {
+    width: 13.7%;
+    padding: 0px;
+    margin: 5px;
+}
+
+#contentDown .col-md-4 {
+    width: 20%;
+    padding: 9px;
+}
+
+.newClassSpan {
+    float: right;
+    font-size: 15px;
+    color: #a78936 !important;
+}
+
+.updateHistory {
+    float: left;
+}
+
+#buttonTag button {
+    padding: 6px;
+}
+
+.grafContentTitle {
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+}
+
+.card-widgets button {
+    padding: 5px;
+}
+
+#chartTitle {
+    background-color: #d5d5d5;
+}
+
+#chartTitle p {
+    float: left;
+    font-size: 15px;
+    color: #000;
+    padding: 15px;
+    margin: 5px;
+}
+
+#chartTitle button {
+    float: right;
+    margin: 15px;
+    margin-left: 0px;
+}
+
+.buttonMounth {
+    background: #89c249;
+    color: #fff;
+    border: none;
+}
+
+.buttonDay {
+    background: #f5f8f9;
+    color: #000;
+    border: none;
+}
+
+#bottomMenu i {
+    font-size: 40px;
+    padding: 10px;
+}
+
+.couponsTop {
+    border-top: 8px solid #81d4fa;
+}
+
+.coupons {
+    color: #81d4fa;
+}
+
+.coupons i {
+    color: #81d4fa;
+}
+
+.membersTop {
+    border-top: 8px solid #80cbc4;
+}
+
+.members {
+    color: #80cbc4;
+}
+
+.members i {
+    color: #80cbc4;
+}
+
+.messageTop {
+    border-top: 8px solid #2ebcd5;
+}
+
+.message {
+    color: #2ebcd5;
+}
+
+.message i {
+    color: #2ebcd5;
+}
+
+.documentTop {
+    border-top: 8px solid #e91c63;
+}
+
+.document {
+    color: #e91c63;
+}
+
+.document i {
+    color: #e91c63;
+}
+
+.sessionTop {
+    border-top: 8px solid #fb9811;
+}
+
+.session {
+    color: #fb9811;
+}
+
+.session i {
+    color: #fb9811;
+}
+
+.reportTop {
+    border-top: 8px solid #95c858;
+}
+
+.report {
+    color: #95c858;
+}
+
+.report i {
+    color: #95c858;
+}
+
+#menuBottom .col-md-2 {
+    width: 16.1%;
+}
+
+#tooltip-container p {
+    text-align: center;
+}
+
+#bottomMenu .col-md-12 {
+    text-align: center;
+}
+
+#menuBottom .row {
+    padding: 5px;
+}
+
+.winnerStat .col-4 h4 {
+    font-size: 15px;
+}
+
+.navbar-custom .app-search .form-control#siteSelector {
+    border-radius: 30px !important;
+}
+
+.pincodeBar {
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.pincode-input:not(:last-child) {
+    margin-right: -4px !important;
+}
+
+.pincode-input {
+    border: 2px solid #c3c3c3 !important;
+    width: 35px !important;
+}
+
+.authDetail {
+    margin-bottom: -0.75rem !important;
+}
+
+.authLogo {
+    text-align: center;
+}
+
+.authLogo img {
+    height: 30px;
+}
+
+.userListing {
+    padding-top: 30px;
+}
+
+.userListing td, th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.userListing th {
+    background: #7d7d7d;
+    color: #fff;
+}
+
+.userListTitle {
+    background: #3c4854;
+    color: #fff;
+    padding: 5px;
+}
+
+.userTitle h5 {
+    color: #fff;
+    padding: 5px;
+    padding-left: 13px;
+}
+
+.userSorting {
+    float: right;
+    margin: -42px;
+    padding-right: 0;
+    padding-left: 113px;
+}
+
+.userSorting select {
+    height: 35px;
+    width: 170px;
+}
+
+.userFilter {
+    background: #3c4854;
+}
+
+.custom-accordion-title {
+    color: #fff !important;
+}
+
+.card-header:first-child {
+    border-radius: .25rem .25rem 0 0;
+}
+
+.userFilterInput {
+    padding: 16px 0;
+}
+
+.userFilterDiv {
+    /* width: 9%; */
+    margin-right: 10px;
+}
+
+.inputGroupFilter {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.userButton {
+    width: 15%;
+}
+
+.userButton button {
+
+}
+
+#custom-accordion-one .card {
+    box-shadow: none !important;
+}
+
+.userMax {
+    max-width: 100% !important;
+}
+
+.navUserList nav {
+    float: right;
+    padding: 20px 0;
+}
+
+.page-item.active .page-link {
+    background-color: #3c4854 !important;
+    border-color: #3c4854 !important;
+}
+
+@media (min-width: 1200px) {
+    body[data-layout-mode=horizontal] .container-fluid {
+        max-width: 100% !important;
+    }
+}
+
+#moduleContent {
+    padding: 0 auto !important;
+}
+
+.userListing .card-body {
+    padding: 0 !important;
+}
+
+.userListing .card {
+    margin-bottom: 10px !important;
+}
+
+.navUserList .pagination {
+    margin-right: 20px !important;
+    float: right;
+}
+
+.limitList {
+    margin-left: 0
+}
+
+.limitList .limitTitle {
+    background-color: transparent;
+    padding: 15px 20px
+}
+
+.limitList .limitIconBadge {
+    display: inline-block;
+    position: absolute;
+    top: 16px;
+    right: 10px
+}
+
+.limitList .limitItem {
+    padding: 12px 20px
+}
+
+.limitIcon {
+    float: left;
+    height: 36px;
+    width: 36px;
+    font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    margin-right: 10px;
+    border-radius: 50%;
+    color: #fff
+}
+
+.limitIcon i {
+    font-size: 35px;
+    padding-top: 8px;
+    color: #6898;
+    vertical-align: middle;
+}
+
+.limitList .limitItem .limitDetails {
+    margin-bottom: 5px;
+    overflow: hidden;
+    font-size: 18px;
+    margin-left: 45px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #343a40;
+}
+
+.limitList .limitItem .limitDetails b {
+    font-weight: 500
+}
+
+.limitList .limitItem .limitDetails small {
+    display: block
+}
+
+.limitList .limitItem .limitDetails span {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 13px
+}
+
+.limitList .limitItem .user-msg {
+    margin-left: 45px;
+    white-space: normal;
+    line-height: 16px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #3c4854 !important;
+}
+
+.limitList .profile-dropdown .limitItem {
+    padding: 7px 20px
+}
+
+.noti-icon {
+    font-size: 21px;
+    vertical-align: middle
+}
+
+.limitSport {
+    color: #8bc349 !important;
+}
+
+.limitCasino {
+    color: #e91d63 !important;
+}
+
+.limitSlot {
+    color: #2e8cf7 !important;
+}
+
+.limitList button {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.limitButtonDiv {
+    padding: 10px;
+}
+
+/* userGroup */
+
+.userGroupListTitle {
+    background: #3c4854;
+    color: #fff;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.userGroupTitle h5 {
+    color: #fff;
+    padding: 5px;
+    padding-left: 13px;
+}
+
+.userGroupCardTitle h5 {
+    color: #fff;
+    padding: 5px;
+    padding-left: 13px;
+}
+
+.userGroupCardTitle {
+    width: 60%;
+}
+
+.userGroupSorting {
+    float: right;
+    margin: -42px;
+    padding-right: 47px;
+    width: auto;
+}
+
+.userGroupSorting select {
+    width: auto;
+    display: inline;
+}
+
+.userGroupSorting .btn-light {
+    color: #ffffff !important;
+    background-color: #f3f7f985 !important;
+    border: none;
+}
+
+.userGroupRightBody {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.userGroupLeftBody {
+    display: flex;
+    margin-right: 10px;
+    flex-wrap: nowrap;
+}
+
+.userGroupCardBody {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.userGroupDetails {
+    padding: 20px;
+}
+
+.usRight {
+    float: right;
+}
+
+.tb10 {
+    margin-right: 10px;
+}
+
+.tb10 td {
+    font-size: 13px;
+}
+
+.tb10 button {
+    margin: 1px;
+}
+
+.userGroupDetails button {
+    float: right;
+}
+
+.uspT10 {
+    padding-top: 10px;
+}
+
+.userGroup button i {
+    font-size: 15px;
+    padding-right: 10px;
+}
+
+.userGroup button {
+}
+
+.userGroup .newButton {
+    margin: 10px auto;
+    background: #44cf9c;
+    text-align: center;
+    color: #fff;
+}
+
+.alertUserGroup {
+    background: #3c4854 !important;
+    text-align: center;
+}
+
+.btn span.mdi {
+    opacity: 0;
+}
+
+.btn.active span.mdi {
+    opacity: 1;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.userGroupDetails .colorSelector input {
+    display: none;
+}
+
+.pdB20 {
+    padding-bottom: 20px;
+}
+
+.iconGroup li {
+    list-style: none;
+    display: inline;
+}
+
+.iconGroup li i {
+    padding: 10px;
+    font-size: 21px;
+    background: #e7e7e7;
+    border-radius: 5px;
+}
+
+.iconGroup li i:hover {
+    background: #3c4854;
+}
+
+.iconGroup li i.active {
+    background: #3c4854;
+}
+
+.iconGroup li a {
+    color: #3c4854;
+}
+
+.iconGroup li a:hover {
+    color: #fff;
+}
+
+.iconGroup li a.active {
+    color: #fff;
+}
+
+.iconGroup ul {
+    margin: 0;
+    padding: 0;
+}
+
+.userGroupSorting i {
+    font-size: 25px;
+    padding: 5px;
+    vertical-align: middle;
+    color: #fff;
+}
+
+.ugDelSav button {
+    margin: 5px;
+}
+
+.iconGroup li i.active {
+    color: #fff !important;
+}
+
+/* endUserGroup */
+
+/* multiIP page */
+.lnWL {
+    width: 0;
+    line-height: 35px;
+}
+
+
+/** modal bg */
+.modal-backdrop {
+    opacity: 0.6 !important;
+}
+
+
+/** content page title */
+
+
+.brace {
+    font-size: 15px;
+    width: 15px;
+    line-height: 40px;
+}
+
+.dateRange {
+    width: 95px;
+    line-height: 40px;
+    margin-bottom: -15px;
+}
+
+.filterGroupDefault {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.defaultFilter {
+    padding: 16px 0 6px 0;
+}
+
+.defaultFilterDiv {
+    margin-right: 10px;
+}
+
+.filterButton {
+    width: 15%;
+}
+
+.contentTitleHeaderBox {
+    padding-top: 30px;
+}
+
+.contentTitleHeaderBox td, th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.contentTitleHeaderBox .card-body {
+    padding: 0px !important;
+}
+
+.contentTitleHeaderBox .card {
+    margin-bottom: 10px !important;
+}
+
+/* content page title end */
+
+
+/* nav button */
+.navbar button {
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
+.navbar button i {
+    padding-right: 10px;
+    line-height: 20px;
+}
+
+
+.table-vue-bs td, th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table-vue-bs th {
+    background: #7d7d7d;
+    color: #fff;
+}
+
+.btn-check:focus + .btn-success, .btn-success:focus {
+    box-shadow: none !important;
+}
+
+.table.b-table > thead > tr > [aria-sort],
+.table.b-table > tfoot > tr > [aria-sort] {
+    cursor: pointer;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: 0.65em 1em;
+}
+
+.table.b-table > thead > tr > [aria-sort]:not(.b-table-sort-icon-left),
+.table.b-table > tfoot > tr > [aria-sort]:not(.b-table-sort-icon-left) {
+    background-position: right calc(0.75rem / 2) center;
+    padding-right: calc(0.75rem + 0.65em);
+}
+
+.table.b-table > thead > tr > [aria-sort].b-table-sort-icon-left,
+.table.b-table > tfoot > tr > [aria-sort].b-table-sort-icon-left {
+    background-position: left calc(0.75rem / 2) center;
+    padding-left: calc(0.75rem + 0.65em);
+}
+
+.table.b-table > thead > tr > [aria-sort=none],
+.table.b-table > tfoot > tr > [aria-sort=none] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='black' opacity='.3' d='M51 1l25 23 24 22H1l25-22zM51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e");
+}
+
+.table.b-table > thead > tr > [aria-sort=ascending],
+.table.b-table > tfoot > tr > [aria-sort=ascending] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='black' d='M51 1l25 23 24 22H1l25-22z'/%3e%3cpath fill='black' opacity='.3' d='M51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e");
+}
+
+.table.b-table > thead > tr > [aria-sort=descending],
+.table.b-table > tfoot > tr > [aria-sort=descending] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='black' opacity='.3' d='M51 1l25 23 24 22H1l25-22z'/%3e%3cpath fill='black' d='M51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e");
+}
+
+.table.b-table.table-dark > thead > tr > [aria-sort=none], .table.b-table.table-dark > tfoot > tr > [aria-sort=none],
+.table.b-table > .thead-dark > tr > [aria-sort=none] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='white' opacity='.3' d='M51 1l25 23 24 22H1l25-22zM51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e");
+}
+
+.table.b-table.table-dark > thead > tr > [aria-sort=ascending], .table.b-table.table-dark > tfoot > tr > [aria-sort=ascending],
+.table.b-table > .thead-dark > tr > [aria-sort=ascending] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='white' d='M51 1l25 23 24 22H1l25-22z'/%3e%3cpath fill='white' opacity='.3' d='M51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e");
+}
+
+.table.b-table.table-dark > thead > tr > [aria-sort=descending], .table.b-table.table-dark > tfoot > tr > [aria-sort=descending],
+.table.b-table > .thead-dark > tr > [aria-sort=descending] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='white' opacity='.3' d='M51 1l25 23 24 22H1l25-22z'/%3e%3cpath fill='white' d='M51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e");
+}
+
+.table.b-table > thead > tr > .table-dark[aria-sort=none],
+.table.b-table > tfoot > tr > .table-dark[aria-sort=none] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='white' opacity='.3' d='M51 1l25 23 24 22H1l25-22zM51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e");
+}
+
+.table.b-table > thead > tr > .table-dark[aria-sort=ascending],
+.table.b-table > tfoot > tr > .table-dark[aria-sort=ascending] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='white' d='M51 1l25 23 24 22H1l25-22z'/%3e%3cpath fill='white' opacity='.3' d='M51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e");
+}
+
+.table.b-table > thead > tr > .table-dark[aria-sort=descending],
+.table.b-table > tfoot > tr > .table-dark[aria-sort=descending] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='white' opacity='.3' d='M51 1l25 23 24 22H1l25-22z'/%3e%3cpath fill='white' d='M51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e");
+}
+
+/* userProfilePage */
+.userTitle {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+}
+
+.userTitle i {
+    padding: 3px;
+    font-size: 24px;
+    line-height: 43px;
+    padding-left: 9px;
+    color: #3c4854;
+}
+
+.userTitle span {
+    line-height: 50px;
+    padding-left: 10px;
+}
+
+.userName {
+    display: flex;
+    flex-direction: row;
+}
+
+.userNav {
+    background: #fff;
+    box-shadow: 0 0 35px 0 rgb(154 161 171 / 15%);
+    padding: 0 calc(24px / 2);
+    left: 0;
+    right: 0;
+    z-index: 100;
+    float: left;
+    width: 100%;
+}
+
+.userBar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .25rem;
+    padding-bottom: .75rem;
+    float: left;
+}
+
+.userBarRight {
+    float: right;
+}
+
+.userBarLeft {
+    float: left;
+    padding: 5px 0;
+}
+
+.userRightTitle {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 750px;
+    padding: 10px 0;
+    padding-bottom: 0;
+}
+
+.userRightTitle i {
+    padding: 3px;
+    font-size: 24px;
+    line-height: 30px;
+    padding-left: 9px;
+    color: #3c4854;
+}
+
+.userRightTitle button i {
+    padding: 0;
+    font-size: 15px;
+    line-height: 0;
+    color: #fff;
+    margin: 0 auto;
+}
+
+.userRightTitle span {
+    line-height: 50px;
+    padding-left: 10px;
+}
+
+.userRightTitle button {
+    margin-right: 10px;
+    margin-bottom: 12px;
+}
+
+.userRightTitle h3 {
+    margin-right: 5px;
+    vertical-align: middle;
+    line-height: 18px;
+}
+
+.profileMenuNav {
+    background: #3c4854;
+    border-radius: .25rem .25rem 0 0;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.profileMenuNav .nav-link {
+    color: #fff;
+}
+
+.profileMenuNav i {
+    padding-right: 5px;
+}
+
+.profileMenuNav .active {
+    background: #ffffff52;
+    color: #fff;
+}
+
+.navbarProfile {
+    display: flex;
+    flex-direction: row;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.navbarProfile .nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: #ffffff;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.navbarProfile .nav-link:hover, .nav-link:focus {
+    display: block;
+    padding: .5rem 1rem;
+    color: #ffffff !important;
+    background: #ffffff52;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.navbarProfile .nav-link.active {
+    color: #3c4854 !important;
+}
+
+.profileCardDetail {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: -10px !important;
+    padding: 20px;
+}
+
+.profileCardDetail.noPad {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.profileCardDetail td, th {
+    text-align: left;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.profileCardDetail th {
+    width: 35%;
+}
+
+.profileCardList .card {
+    margin-bottom: 10px !important;
+}
+
+.profileCardList .card-body {
+    padding: 0px !important;
+}
+
+.profileCardList .card {
+    margin-bottom: 10px !important;
+}
+
+.profileCardList {
+    padding-top: 30px;
+}
+
+.profileCardList td, th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.profileCardList th {
+    background: #7d7d7d;
+    color: #fff;
+}
+
+.profileCardList .card-body {
+    height: auto;
+}
+
+.profileCardDetail .table-responsive {
+    padding: 0;
+}
+
+/* endUserProfilePage */
+
+@media (min-width: 992px) {
+    body[data-layout-mode=horizontal] .content-page {
+        padding: 55px 0 !important;
+    }
+}
+
+/* messagesProfile */
+
+.messageCardDetail {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: -10px !important;
+    padding: 20px;
+}
+
+.messageCardDetail td, th {
+    text-align: left;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.messageCardDetail th {
+    width: 35%;
+}
+
+.messageCardList .card {
+    margin-bottom: 10px !important;
+}
+
+.messageCardList .card-body {
+    padding: 0px !important;
+}
+
+.messageCardList .card {
+    margin-bottom: 10px !important;
+}
+
+.messageCardList {
+    padding-top: 30px;
+}
+
+.messageCardList td, th {
+    vertical-align: middle;
+}
+
+.messageCardList th {
+    background: #7d7d7d;
+    color: #fff;
+    text-align: left;
+}
+
+.messagesCardDetail {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: -10px !important;
+    padding: 0px;
+}
+
+.messagesCardDetail td, th {
+    text-align: center;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.messagesCardDetail td, th {
+    text-align: center;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.messagesCardDetail th {
+    text-align: center !important;
+}
+
+.messageListDetail .card {
+    margin-bottom: 10px !important;
+}
+
+.messageListDetail .card-body {
+    padding: 0px !important;
+}
+
+.messageListDetail .card {
+    margin-bottom: 10px !important;
+}
+
+.messageListDetail {
+    padding-top: 30px;
+}
+
+.messageListDetail td, th {
+    vertical-align: middle;
+}
+
+.messageListDetail th {
+    background: #7d7d7d;
+    color: #fff;
+    text-align: left;
+}
+
+.messageCardList .card-body {
+    height: auto;
+}
+
+.messageSystemCard {
+    padding: 15px;
+    background: #ffffff;
+    height: 110px;
+    border-radius: 11px;
+    box-shadow: -2px 2px 6px #888888;
+}
+
+.pt10 {
+    padding-top: 10px;
+}
+
+.messageSystemCard .card {
+    color: #000;
+    background: none;
+}
+
+.titleMessage {
+    display: flex;
+}
+
+.dateMessage h4 {
+    float: right;
+}
+
+.messageNewBut {
+    float: right;
+    margin: -22px;
+    padding-right: 10px;
+    width: auto;
+}
+
+.messagesCardDetail .table-responsive {
+    padding: 0;
+}
+
+/* endMessagesProfile */
+
+.documentListDetail .userFilterDiv {
+    width: 20% !important;
+}
+
+.documentListDetail td, th {
+    vertical-align: middle;
+}
+
+.documentListDetail .card {
+    margin-bottom: 10px !important;
+}
+
+.documentListDetail .card-body {
+    padding: 0px !important;
+}
+
+.documentListDetail .card {
+    margin-bottom: 10px !important;
+}
+
+.documentCardDetail {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: -10px !important;
+    padding: 0px;
+}
+
+.documentCardDetail td, th {
+    text-align: center;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.documentCardDetail td, th {
+    text-align: center;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.documentCardDetail th {
+    text-align: center !important;
+}
+
+.documentCardDetail .table-responsive {
+    padding: 0;
+}
+
+.documentCardDetail th {
+    background: #7d7d7d;
+    color: #fff;
+}
+
+/* bonusList */
+
+.bonusEditContent {
+    display: flex;
+    padding: 15px;
+}
+
+.prEdit {
+    padding-right: 5px;
+    width: 100%;
+}
+
+.ptEdit {
+    padding-top: 27px;
+}
+
+.bonusListDetail .userFilterDiv {
+    width: 20% !important;
+}
+
+.bonusListDetail td, th {
+    vertical-align: middle;
+}
+
+.bonusListDetail .card {
+    margin-bottom: 10px !important;
+}
+
+.bonusListDetail .card-body {
+    padding: 0px !important;
+}
+
+.bonusListDetail .card {
+    margin-bottom: 10px !important;
+}
+
+.bonusbonusDetail {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: -10px !important;
+    padding: 0px;
+}
+
+.bonusCardDetail td, th {
+    text-align: center;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.bonusCardDetail td, th {
+    text-align: center;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.bonusCardDetail th {
+    text-align: center !important;
+}
+
+.bonusCardDetail th {
+    background: #7d7d7d;
+    color: #fff;
+}
+
+/* endBonusList */
+
+.tbl10 {
+    width: 4%;
+}
+
+.tbl20 {
+    width: 20%;
+}
+
+.tbl30 {
+    width: 25%;
+}
+
+.bettingMake {
+    background: #fff5da;
+}
+
+.bettingWin {
+    background: #44cf9c54;
+}
+
+.bettingLose {
+    background: #f8626247;
+}
+
+/* casinoMove */
+
+.casinoCardDetail {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: -10px !important;
+}
+
+.casinoCardDetail td, th {
+    text-align: center;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.casinoCardDetail td, th {
+    text-align: center;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.casinoCardDetail th {
+    text-align: center !important;
+}
+
+.casinoCardDetail .table-responsive {
+    padding: 0;
+}
+
+.casinoCardDetail th {
+    background: #7d7d7d;
+    color: #fff;
+}
+
+.casinoListDetail .userFilterDiv {
+    width: 20% !important;
+}
+
+.casinoListDetail td, th {
+    vertical-align: middle;
+}
+
+.casinoListDetail .card {
+    margin-bottom: 10px !important;
+}
+
+.casinoListDetail .card-body {
+    padding: 0px !important;
+}
+
+.casinoListDetail .card {
+    margin-bottom: 10px !important;
+}
+
+.casinoListDetail {
+    padding-top: 30px;
+}
+
+/* endCasinoMove */
+
+.downTitle {
+    background: #1abb9b;
+}
+
+.pR0 {
+    padding-right: 0;
+}
+
+.generalCardDetail td, th {
+    text-align: left;
+    vertical-align: middle;
+    padding: .55rem .55rem !important;
+}
+
+.generalCardDetail th {
+    text-align: center !important;
+}
+
+.generalCardDetail th {
+    background: #7d7d7d !important;
+    color: #fff !important;
+}
+
+.generalCardDetail .pR0 th {
+    background: #fff !important;
+    color: #3c4854 !important;
+    text-align: left !important;
+    width: 25%;
+}
+
+.generalCardDetail .table-responsive {
+    padding: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.couponsPad {
+    padding: 27px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.dpFle {
+    display: flex;
+}
+
+.preLimitCardDetail th {
+    background: #fff;
+    color: #6c757d;
+    text-align: left !important;
+    width: 25%;
+}
+
+.prPreLive {
+    padding: 27px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.depositButton {
+    width: 15%;
+}
+
+.navDepositList nav {
+    float: right;
+    padding: 20px 0;
+}
+
+.depositListing {
+    padding-top: 30px;
+}
+
+.depositListing td, th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.depositListing th {
+    background: #7d7d7d;
+    color: #fff;
+}
+
+.depositListTitle {
+    background: #3c4854;
+    color: #fff;
+    padding: 5px;
+}
+
+.depositTitle h5 {
+    color: #fff;
+    padding: 5px;
+    padding-left: 13px;
+}
+
+.depositSorting {
+    float: right;
+    margin: -26px;
+    padding-right: 12px;
+    width: auto;
+}
+
+.depositSorting select {
+    width: auto;
+    display: inline;
+}
+
+.depositSorting .btn-light {
+    color: #ffffff !important;
+    background-color: #f3f7f985 !important;
+    border: none;
+}
+
+.customMb0 {
+    margin-bottom: 0px !important;
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: #e8e8e8 !important;
+    opacity: 1;
+}
+
+.topnav .navbar-nav .nav-link:focus, .topnav .navbar-nav .nav-link:hover {
+    color: #f1556c!important;
+    background-color: transparent;
+}
+
+.topnav .dropdown:hover>.nav-link {
+    color: #f1556c!important;
+}
+
+.topnav .dropdown-item.active {
+    background-color: transparent;
+    color: #f1556c;
+}
+
+.tableCardList .card {margin-bottom: 10px!important; }
+.tableCardList td, th {vertical-align: middle;}
+.tableCardList th {
+    background: #7d7d7d;
+    color: #fff;
+    text-align: left;
+}
+.tableCardDetail {margin-left: 0;margin-top: 0;margin-right: 0;margin-bottom: -10px!important;padding: 0px!important;}
+.tableCardDetail td, th {text-align: center;vertical-align: middle;}
+.tableCardDetail td, th {text-align: center;vertical-align: middle;}
+.tableCardDetail th {text-align: center!important;}
+.tableListDetail .card-body {padding: 0px!important; }
+.tableCardDetail .table-responsive {padding:0;}
+
+.dpFle {display:flex;}
+.pdRight {padding-right:15px;}
+.oneSet .form-check {padding-right:15px;}
+.discountCard {
+    padding: 20px 35px;
+}
+.userCardUpdate {
+    padding: 15px 20px;
+}
+.dpFle .userUpdate {padding-right:10px;}
+.userCardUpdate .btnW100 button {width:100%;}
+
